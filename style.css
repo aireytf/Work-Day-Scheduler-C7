@@ -76,7 +76,7 @@ header {
 .event-container {
   display: flex;
   align-items: center;
-  margin-right: 10px;
+  margin-right: 20px;
 }
 
 /* Adjust the styling for the textarea */

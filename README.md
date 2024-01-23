@@ -15,7 +15,7 @@ The application needed to:
 - Save the event in local storage when the save button is clicked in that timeblock.
 - Persist events between refreshes of a page
 
-The following pictures show the layout and functionality of my finished application (which appropriately resembles the Demo animation provided): 
+My finished application was to resemble the following Demo:
 
 ![Demo](/Images/Demo1.png)
 

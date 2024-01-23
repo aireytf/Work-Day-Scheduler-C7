@@ -72,11 +72,14 @@ header {
 }
 
 
-
-/* Styling for the event container */
+/* Adding styling for event container */
 .event-container {
   display: flex;
   align-items: center;
-  margin-right: 10px; /* Add some spacing to the right of the event area */
+  margin-right: 10px;
 }
 
+/* Adjust the styling for the textarea */
+.event-input {
+  flex: 1; /* Take up remaining space in the container */
+}
